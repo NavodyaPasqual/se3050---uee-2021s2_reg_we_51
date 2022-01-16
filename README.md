@@ -1,11 +1,11 @@
 # Mobile App Developnment on Finance
 
+### Name 
+NDB Neos (National Development Bank)
+
 ### Prototype in figma
 
 [View](https://www.figma.com/proto/GIuXHbzE96iNCSFwjtbEkP/Figma-NDB-Neos?node-id=105%3A613&starting-point-node-id=105%3A613)
-
-### Name 
-NDB Neos (National Development Bank)
 
 ### Group no
 
